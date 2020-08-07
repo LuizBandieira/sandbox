@@ -1,3 +1,1 @@
-Hello World
-
-Trying to commit to master
+As an administrator, I can mess this up.
