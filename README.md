@@ -1,3 +1,3 @@
-As an administrator, I can mess this up.
+This is the HOTPACK update
 
-Again, messint it up
+Gotta bring it to everyone else.
